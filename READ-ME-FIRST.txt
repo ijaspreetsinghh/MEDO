@@ -1,7 +1,0 @@
-HI,
-
-1. Create a database 'medical' in phpMyAdmin.
-2. Import medical.sql file in that database.
-
-
-Enjoy!!
